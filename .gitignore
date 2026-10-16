@@ -1,0 +1,7 @@
+granules/
+*.nc
+*.h5
+*.hdf
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
